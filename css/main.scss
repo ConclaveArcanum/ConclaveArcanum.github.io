@@ -18,12 +18,14 @@ $text-color:       #666;
 $background-color: #000;
 $brand-color:      #2a7ae2;
 
+$red:              #900;
+$dark-1:           #111;
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    1080px;
+$content-width:    100%;//1080px;
 
 $on-palm:          600px;
 $on-laptop:        800px;

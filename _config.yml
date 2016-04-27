@@ -8,12 +8,9 @@
 # Site settings
 title: Conclave Arcanum
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: 436f6e636c61766520617263616e756d20b7206f7264696e656d206465206368616f20b7206368616f7320657374206f7264696e656d20b720497461206d756c746920756e756d206465206d756c746973
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://conclavearcanum.github.io/" # the base hostname & protocol for your site
 twitter_username: ConclaveArcanum
 github_username:  ConclaveArcanum
 
